@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 3233,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/utility-runbook-to-control-monitor-runbooks-to-run-at-specific-intervals/master/Manage-MonitorRunbook.ps1",
+    "DownloadCount": 758,
+    "Id": "Utility-runbook-to-control-7074cfff",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 541,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-11-12T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook is designed to run on scheduled intervals and resume any monitor runbooks that have a specific tag. Please refer to http://azure.microsoft.com/blog/2014/11/17/monitoring-azure-services-and-external-systems-with-azure-automation for additional details.",
+    "Title": "Utility runbook to control monitor runbooks to run at specific intervals",
+    "UpdatedDate": "2014-12-22T00:00:00",
+    "Url": "https://github.com/azureautomation/utility-runbook-to-control-monitor-runbooks-to-run-at-specific-intervals",
+    "UserTags": "Utility"
+}
